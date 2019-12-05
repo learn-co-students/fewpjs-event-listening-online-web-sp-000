@@ -1,4 +1,4 @@
-# Interacting with the DOM via JavaScript Event Listeners
+ # Interacting with the DOM via JavaScript Event Listeners
 
 ## Learning Goals
 
